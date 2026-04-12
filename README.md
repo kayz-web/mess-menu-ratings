@@ -55,13 +55,6 @@
 * Browser (testing)
 
 
-
-###  Team Work Division 
-
-* Member 1: HTML & CSS (UI design)
-* Member 2: JavaScript (logic and functionality)
- 
-
 ###  Conclusion
 
 This project focuses on building a simple and functional platform for reporting and finding lost items. 
