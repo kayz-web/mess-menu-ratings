@@ -66,6 +66,6 @@ The Lost & Found Web App is a simple web-based platform that allows users to rep
 * Member 2: JavaScript (logic and functionality)
  
 
-### 🔹 Conclusion
+###  Conclusion
 
 This project focuses on building a simple and functional platform for reporting and finding lost items. 
