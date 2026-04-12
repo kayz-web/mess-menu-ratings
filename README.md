@@ -2,10 +2,6 @@
 
 ## Lost & Found Web App 
 
-### Project Description
-
-The Lost & Found Web App is a simple web-based platform that allows users to report lost or found items. Users can submit item details and browse listings to find matches. The system works like a digital notice board where users can manually identify and recover their belongings.
-
 ### Basic Workflow
 
 1. User opens the website
